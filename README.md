@@ -1,15 +1,15 @@
 # Previous GitLab Contributions
 
-This README highlights my Git commit contributions made during my time at **<Yokohama Labels & Printing (BD) Co., Ltd>**. 
+This README highlights my Git commit contributions made during my time at **Yokohama Labels & Printing (BD) Co., Ltd**. 
 The work showcased here reflects my role in developing, maintaining, and improving several internal and external-facing projects hosted on the organization's private GitLab repositories.
 
 ## 📌 Organization
-**<Yokohama Labels & Printing (BD) Co., Ltd>**  
+**Yokohama Labels & Printing (BD) Co., Ltd**  
 [Private GitLab Instance] — Access restricted to internal teams.
 
 ## 🔧 Role
-**<My Role>** — Full Stack Developer  
-**Tenure:** <Start Mar/2022> to Continue
+**My Role** — Software Developer  
+**Tenure:**  Mar/2022 to Present
 
 ## 📂 Contributions Overview
 
@@ -19,7 +19,7 @@ Below is a list of key projects and a summary of the contributions made:
 - **Repository URL:** *(Internal — not publicly accessible)*
 - **Role:** Software Developer
 - **Highlights:**
-  - Developed ERP systems using ASP.NET MVC, MSSQL, jQuery, and Ajax
+  - Developed ERP systems using ASP.NET MVC, MSSQL, jQuery, Ajax and Crystal Report
   - Designed and optimized Microsoft SQL Server database schema
   - 270+ commits during development phase
 
@@ -27,7 +27,7 @@ Below is a list of key projects and a summary of the contributions made:
 - **Repository URL:** *(Internal — not publicly accessible)*
 - **Role:** Software Developer
 - **Highlights:**
-  - Developed ERP systems using ASP.NET MVC, MSSQL, jQuery, and Ajax
+  - Developed ERP-EXT systems for Commercial Dept. using ASP.NET MVC, MSSQL, jQuery, Ajax and Crystal Report
   - Designed and optimized MSSQL Server database schema
   - 230+ commits during development phase
 
@@ -35,7 +35,7 @@ Below is a list of key projects and a summary of the contributions made:
 - **Role:** Software Developer
 - **Highlights:**
   - Developed a Web Ordering System with .NET 8 and Domain Driven Design (DDD)
-  - Designed and optimized Microsoft SQL Server 2022 database schema
+  - Designed and optimized MSSQL Server 2022 database schema
   - Set up CI/CD pipelines with GitLab CI and Docker
   - Monitored and improved system performance
   - 280+ commits during development phase
